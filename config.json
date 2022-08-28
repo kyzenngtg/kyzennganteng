@@ -1,0 +1,36 @@
+{
+    "ownerNumber": "6285824629954@s.whatsapp.net", 
+    "ownerName": "KYZENN", 
+    "botName": "ZENN BOTZ",
+    "footer": "© BOTZMD | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/E7xrNhn0fhIJdsDquSGCre",
+    "yootube": "KAGAK ADA",
+     
+    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
+    "textBarisDonate1": "Dana : 0858-2462-9954",
+    "textBarisDonate2": "Ovo : 0858-2462-9954",
+    "textBarisDonate3": "Gopay : 0858-2462-9954",
+    "textBarisDonate4": "Pulsa : 0858-2462-9954",
+  
+    "ButtonTextMenu1": "YOUTUBE 📽",
+    "ButtonTextMenu2": "GROUP WHATSAPP👥",
+    "quickReplyButton3": "RULES👤",
+    "quickReplyButton4": "DONASI💸",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "gak ada",
+    "ButtonMenuLink2": "https://chat.whatsapp.com/E7xrNhn0fhIJdsDquSGCre",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© ZENN BOTZ",
+        "author": "KYZENN"
+    }
+}
